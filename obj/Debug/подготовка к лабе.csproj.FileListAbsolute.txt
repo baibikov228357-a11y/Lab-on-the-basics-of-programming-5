@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\подготовка к лабе\подготовка к лабе\bin\Debug\подготовка к лабе.exe.config
+C:\Users\user\source\repos\подготовка к лабе\подготовка к лабе\bin\Debug\подготовка к лабе.exe
+C:\Users\user\source\repos\подготовка к лабе\подготовка к лабе\bin\Debug\подготовка к лабе.pdb
+C:\Users\user\source\repos\подготовка к лабе\подготовка к лабе\obj\Debug\подготовка к лабе.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\подготовка к лабе\подготовка к лабе\obj\Debug\подготовка к лабе.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\подготовка к лабе\подготовка к лабе\obj\Debug\подготовка к лабе.exe
+C:\Users\user\source\repos\подготовка к лабе\подготовка к лабе\obj\Debug\подготовка к лабе.pdb
+C:\Users\user\source\repos\подготовка к лабе\подготовка к лабе\obj\Debug\подготовка к лабе.exe.config
